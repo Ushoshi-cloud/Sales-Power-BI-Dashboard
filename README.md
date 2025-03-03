@@ -13,8 +13,6 @@ Key Features
 
 Tools & Technologies Used
 •	Power BI: For data visualization and interactive dashboards.
-•	SQL: Data extraction and transformation.
-•	Excel: Data preprocessing and calculations.
 
 Future Improvements
 •	Adding predictive analytics for forecasting future sales.
